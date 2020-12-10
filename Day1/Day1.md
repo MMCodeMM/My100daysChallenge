@@ -10,4 +10,4 @@ I installed all my tools and i ready to go
 
 -make the folder and flie
 
--learn how to use Git
+-learn how to use GitHub desktop to upload files
