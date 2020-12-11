@@ -7,4 +7,10 @@ Hello everyone, this is my first 100days Challenge of codeing
     install the tools
 
     More Info [here](Day1\Day1.md)
+   
+## Day 2
+
+    today i going to review my basic HTML languge on FreeCodecamp website
+
+    More Info [here](Day2\Day2.md)
 

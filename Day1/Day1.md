@@ -2,12 +2,12 @@
 
 I installed all my tools and i ready to go
 
--Sing up GitHub
+- Sing up GitHub
 
--Installed GitHub
+- Installed GitHub
 
--Link the GitHub on Vs code
+- Link the GitHub on Vs code
 
--make the folder and flie
+- make the folder and flie
 
--learn how to use GitHub desktop to upload files
+- learn how to use GitHub desktop to upload files
