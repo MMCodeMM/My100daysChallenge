@@ -14,9 +14,9 @@ Hello everyone, this is my first 100days Challenge of codeing
 
     More Info [here](Day2\Day2.md)
 
-## Day 2
+## Day 3
 
-    today i going to review my basic HTML languge on FreeCodecamp website
+    Today im finnish 70% of Basic Css on FreeCodeCamp
 
-    More Info [here](Day2\Day2.md)
+    More Info [here](Day3\Day3.md)
 
