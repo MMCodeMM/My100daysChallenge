@@ -28,6 +28,6 @@ Hello everyone, this is my first 100days Challenge of codeing
 
 ## Day 5
 
-    Today i finnish the last 30% of Css test on FreeCodeCamp then..
+    Today i am starting my first project, which is the login/register page 
 
     More Info [here](Day5\Day5.md)
