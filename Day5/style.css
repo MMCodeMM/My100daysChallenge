@@ -12,3 +12,41 @@ body {
     top: 25%;
     left: 15%;
 }
+.tap-switch .login{
+    width: 170px;
+    height: 52px;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+    cursor: pointer;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    background: none;
+}
+.tap-switch .Register{
+    width: 170px;
+    height: 52px;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+    cursor: pointer;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    background: none;
+}
+.login:active,.login:focus,.Register:active,.Register:focus{
+    color:#000000;
+    background-color: #fff;
+    cursor: auto;
+}
+.tap-switch{
+    margin-top: 81px;
+    display: flex;
+    justify-content: center;
+}
