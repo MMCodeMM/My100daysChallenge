@@ -1,0 +1,14 @@
+body {
+    background-image: url("Photo/pexels-nao-triponez-129207.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.row-left{
+    width: 600px;
+    position: absolute;
+    top: 25%;
+    left: 15%;
+}
