@@ -31,3 +31,11 @@ Hello everyone, this is my first 100days Challenge of codeing
     Today i am starting my first project, which is the login/register page 
 
     More Info [here](Day5\Day5.md)
+
+## Day 6
+
+    continue  the landing login/register page 
+
+    More Info [here](Day6\Day6.md)
+
+    

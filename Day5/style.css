@@ -1,3 +1,19 @@
+h1{
+    font-family: 'Pacifico', cursive;
+}
+h5 , span{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+#brand{
+    color: #ffca07d9;
+    line-height: 1.5;
+    margin: 10px;
+}
+#welcome , #left-text{
+    color: #ffffffbf;
+    line-height: 1.5;
+    margin: 10px;
+}
 body {
     background-image: url("Photo/pexels-nao-triponez-129207.jpg");
     background-position: center;
@@ -7,10 +23,10 @@ body {
 
 }
 .row-left{
-    width: 600px;
+    width: 570px;
     position: absolute;
-    top: 25%;
-    left: 15%;
+    top: 28%;
+    left: 11%;
 }
 .tap-switch .login{
     width: 170px;
