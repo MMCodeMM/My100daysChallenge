@@ -38,4 +38,8 @@ Hello everyone, this is my first 100days Challenge of codeing
 
     More Info [here](Day6\Day6.md)
 
-    
+## Day 7
+
+    i try to move the login box to the right side..
+
+    More Info [here](Day7\Day7.md)
