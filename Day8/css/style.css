@@ -5,22 +5,47 @@
     height: 100vh;
 }
 .contact-page{
-    width: 350px;
+    width: 300px;
     background: rgba(27, 52, 97, 0.849);
     text-align: center;
 }
 .contact-area{
     background: white;
-    width: 100%;
+    
     text-align: center;
     justify-content: center;
     display: flex;
     flex-direction: row;
     align-items: center;
+    width: 78%;
 }
 img{
     width: 150px;
     border-radius: 100%;
     margin-top: 30px;
     margin-bottom: 25px;
+}
+.navbar{
+    align-items: start;
+    margin-top: 15px;
+}
+.navbar ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 88px;
+    
+}
+.navbar li{    
+    padding: 16px;
+    text-align: center;
+    line-height: 1.5;
+    margin-bottom: 8px;
+}
+li a{
+    text-decoration: none;
+    color: bisque;
+}
+li a:hover{
+    color: white;
 }
