@@ -14,4 +14,4 @@ i use flexbox to defuse the layout problem
 
 - content the domin and server 
 
-- last will pugin a SSL 
+- last will pug a SSL 
